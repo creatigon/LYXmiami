@@ -1,0 +1,212 @@
+/* start logo */
+#logo {	
+	padding:20px;
+}
+.navbar-cursor {
+	margin-top: 20px;
+	width: 100%;
+	border:none;
+	border-bottom: 0px;
+}
+.navbar-collapse {
+	padding-right: 0px;
+	padding-left: 0px;
+	border:0px;
+}
+.navbar {
+	min-height: none;
+	margin-bottom:none;
+	border-radius:0px;
+	min-height: 20px;
+}
+.nav-tab {
+	border-bottom:none;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.nav-justified li a {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: black;
+}
+.navbar-toggle {
+	background-color: black;
+}
+.icon-bar {
+	background-color: white;
+}
+/* end logo */
+
+
+
+/* start carousel */
+.item > img {
+	width:100%;
+}
+.carousel-caption {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color:rgba(255,255,255,.3);
+}
+.glyphicon {
+	position: absolute;
+	top: 50%;
+	font-size:40px;
+}
+/* end carousel */
+.carousel-indicators{
+	bottom: 0;
+}
+.carousel-indicators .active {
+	background-color:green;
+	width: 15px;
+	height:15px;
+}
+.carousel-indicators li {
+	background-color:orange;
+}
+
+#bedroom h4{
+	padding:40px 0px 10px 15px;
+	font-weight: bold;
+	font-size:20px;
+}
+
+#buildingBrickell h4{
+	padding:40px 0px 10px 15px;
+	font-weight: bold;
+	font-size:20px;
+}
+
+#studio h4{
+	padding:40px 0px 10px 15px;
+	font-weight: bold;
+	font-size:20px;
+}
+
+#buildingBrickell{
+	width:100%;
+	height:50%;
+	background: #ECECEC;
+}
+
+#studio{
+	width:100%;
+	height:50%;
+	background: #fff;
+}
+.viewmore{
+	padding:10px 0px;
+}
+#grables {
+	width: 100%;
+	background-color: #ECECEC;
+	height: 50%;
+}
+#grables h4 {
+	padding:40px 0px 10px 15px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#contact {
+	width: 100%;
+	background:#211F20;
+	height: 80%;
+}
+#contact .map {
+	padding: 25px 0px 0px 0px;
+	width: 100%;
+	height:300px;
+}
+.address {
+	color: #ECECEC;
+	font-weight: bold;
+	padding: 20px;
+}
+/*
+.link {
+	padding: 0px 10px 40px 0px;
+}*/
+.link img {
+	padding-right: 25px;
+}
+footer p {
+	color:#ECECEC;
+	font-weight: normal;
+}
+/* about */
+#miami {
+	width:100%;
+	height:500px;
+	background-image: url('images/slider_4.jpg');
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#callus {
+	margin
+	width:100%;
+	height:auto;
+}
+#callus p {
+	width:100%;
+	text-align: center;
+	padding:8px;
+	color:#fff;
+	background-color:black;
+}
+.suites {
+	background-color: rgba(0,0,0,.3);
+	background-position: center center;
+	background-repeat:no-repeat;
+	position: relative;
+	background-size: cover;
+	padding-bottom: 50px;
+	width: 100%;
+	height:300px;
+}
+.suites h5 {
+	text-align: center;
+	color: #fff;
+	padding-top: 30px;
+	font-weight: inherit;
+	font-size: 30px;
+}
+.suites p {
+	text-align: center;
+	color:#fff;
+	padding-top: 30px;
+	line-height: 25px;
+}
+.inquired {
+	margin-top: 100px;
+	width:80%;
+	text-align:center;
+	border:1px solid black;
+	background-color: black;
+	padding:15px;
+	color:#fff;
+}
+.line {
+	width:0%;
+	border:1px solid black;
+	height: 600px;
+}
+#info h2 {
+	padding-top: 10px;
+}
+.one,.two,.three,.four{
+	padding-top: 50px;
+}
+.four {
+	padding-bottom: 20px;
+}
+
+
+#broadway {
+	width: 100%;
+	height:auto;
+	background-color: red;
+}
